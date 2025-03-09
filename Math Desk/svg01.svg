@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:lc="https://librecad.org" xmlns:xlink="http://www.w3.org/1999/xlink" width="200cm" height="30cm" viewBox="0 0 54.14062551 30">
+    <g lc:layername="0" lc:is_locked="false" lc:is_construction="false" fill="none" stroke="yellow" stroke-width="4">
+        <line id="line1" x1="24.14062551" y1="10" x2="44.14062551" y2="10"/>
+        <line id="line2" x1="24.14062551" y1="10" x2="34.1391154" y2="0.00151011"/>
+        <line id="line3" x1="44.14062551" y1="10" x2="34.14213562" y2="0.00151011"/>
+        <line id="line4" x1="24.14062551" y1="10" x2="14.14213562" y2="0.00151011"/>
+        <line id="line5" x1="44.14062551" y1="10" x2="54.1391154" y2="0.00151011"/>
+        <line id="line6" x1="14.14062551" y1="0" x2="34.14062551" y2="0"/>
+        <line id="line7" x1="34.1391154" y1="0.00151011" x2="54.1391154" y2="0.00151011"/>
+        <line id="line8" x1="24.14062551" y1="10" x2="24.14062551" y2="30" stroke="red" stroke-width="4"/>
+        <line id="line9" x1="54.14062551" y1="0" x2="54.14062551" y2="20" stroke="red" stroke-width="4"/>
+        <line id="line10" x1="14.14213562" y1="0.00151011" x2="0" y2="14.14364574" stroke="red" stroke-width="4"/>
+    </g>
+</svg>
