@@ -7,7 +7,7 @@ Welcome to my repository of Manim Jupyter scripts! This collection is designed t
 - [Introduction](#introduction)
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
+
 
 
 ## Introduction
@@ -23,17 +23,12 @@ Manim is an animation engine for explanatory math videos. It is particularly use
 
 ## Getting Started
 
-### Prerequisites
-
 Before you begin, ensure you have the following installed:
 
 - Python 3.7 or higher
 - Jupyter Notebook
 - Manim (follow the installation instructions below)
-### Installation
 
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/SavithOnline/VideoWork.git
-   cd manim-jupyter-scripts
+
+
 
