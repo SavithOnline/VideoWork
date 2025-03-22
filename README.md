@@ -30,3 +30,10 @@ Before you begin, ensure you have the following installed:
 - Python 3.7 or higher
 - Jupyter Notebook
 - Manim (follow the installation instructions below)
+### Installation
+
+1. **Clone the Repository**:
+   ```sh
+   git clone https://github.com/SavithOnline/VideoWork.git
+   cd manim-jupyter-scripts
+
