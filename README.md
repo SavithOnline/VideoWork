@@ -1,27 +1,37 @@
-# Manim Animation Scripts Repository
+# Manim Jupyter Scripts for Video Production
 
-Welcome to my Manim Animation Scripts Repository! This repository serves as a collection of Python scripts created using [Manim](https://www.manim.community/), a powerful mathematical animation engine. These scripts are used in my video production work for various YouTube channels, where I create engaging educational and visual content.
+Welcome to my repository of Manim Jupyter scripts! This collection is designed to help you create engaging and educational video content using the power of Manim, a mathematical animation engine.
 
-## About This Repository
+## Table of Contents
 
-I’m a video content creator passionate about visualizing complex concepts through animations. This repository is a central hub for sharing the Manim scripts I’ve developed for my projects. Whether you're a fellow creator, educator, or animation enthusiast, feel free to explore, use, and adapt these scripts for your own purposes under the terms of the license below.
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Examples](#examples)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-### Key Features
-- **Educational Animations**: Scripts designed to explain mathematical, scientific, and technical concepts.
-- **Reusable Code**: Modular and well-commented scripts for easy customization.
-- **Real-World Examples**: Animations used in actual YouTube videos across multiple channels.
-- **Open Source**: Free to use, modify, and share (see [License](#license)).
+## Introduction
 
-## Prerequisites
+Manim is an animation engine for explanatory math videos. It is particularly useful for creating precise, programmatically generated animations for educational content. This repository contains Jupyter notebooks that utilize Manim to create various animations for video production.
 
-To run these scripts locally, you’ll need to set up Manim on your machine. Below are the basic requirements:
+## Features
 
-- **Python 3.7+**: Ensure Python is installed on your system.
-- **Manim**: Install the community edition of Manim. Follow the official [installation guide](https://docs.manim.community/en/stable/installation.html).
-- **Dependencies**: Additional libraries may be required depending on the script (e.g., NumPy for some animations).
+- **Educational Animations**: Create clear and engaging animations for educational videos.
+- **Customizable Scripts**: Easily modify the scripts to fit your specific needs.
+- **Jupyter Notebooks**: Use the interactive environment of Jupyter notebooks to develop and test your animations.
+- **Video Production Ready**: Export your animations in high quality for use in video production.
 
-### Installation Steps
-1. Install Python: [Download here](https://www.python.org/downloads/)
-2. Install Manim:
-   ```bash
-   pip install manim
+## Getting Started
+
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Python 3.7 or higher
+- Jupyter Notebook
+- Manim (follow the installation instructions below)
